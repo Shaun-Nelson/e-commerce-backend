@@ -16,7 +16,7 @@ A back-end for an e-commerce site using an Express.js API and Sequelize to inter
 
 ## GitHub Repository
 
-https://github.com/Shaun-Nelson/employee-tracker
+https://github.com/Shaun-Nelson/e-commerce-backend
 
 ## Video Walkthrough Link
 
